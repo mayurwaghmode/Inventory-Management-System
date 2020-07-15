@@ -1,5 +1,11 @@
 # Inventory-Management-System
 
+Features of the App :
+1. Add product categories dynamically
+2. Add product details dynamically
+3. Issue Products
+4. View stock available/left details - 
+
 To run the app:
 1]Place the project folder in htdocs folder of XAMPP.
 2]Turn on "Apache" and "MySQL" module of XAMPP.
