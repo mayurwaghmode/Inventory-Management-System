@@ -88,5 +88,4 @@ require 'db_connect.php';
     <?php include 'footer_js.php';?>
 
 </body>
-
 </html>
